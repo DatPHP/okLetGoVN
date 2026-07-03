@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://okletgo-backend.onrender.com/api/:path*"
+      "destination": "https://okletgovn.onrender.com/api/:path*"
     },
     {
       "source": "/:path*",
