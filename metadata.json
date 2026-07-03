@@ -1,0 +1,6 @@
+{
+  "name": "okletgovn",
+  "description": "Hệ thống lập lịch trình du lịch thông minh bằng AI, tối ưu chi phí và kết nối hướng dẫn viên địa phương cho Đà Nẵng, Huế, Vũng Tàu, Bình Định dành cho giới đi làm 25-35 tuổi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
